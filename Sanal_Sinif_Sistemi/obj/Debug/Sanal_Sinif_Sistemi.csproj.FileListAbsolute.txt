@@ -1,0 +1,320 @@
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Giris.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Properties.Resources.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.GenerateResource.Cache
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe.config
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Anasayfa.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Islem.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Listesi.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Sinav_Ol.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.Sanal_Sinif_Sistemi.exe.config
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Listesi.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Yedekleme_Islem.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Listesi.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Islem.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Islem.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Listesi.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Islem.resources
+C:\Users\oguz\Desktop\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Analizler.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe.config
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.pdb
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.xml
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csprojResolveAssemblyReference.cache
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.Sanal_Sinif_Sistemi.exe.config
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Analizler.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Anasayfa.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Islem.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Listesi.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Islem.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Listesi.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Giris.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Islem.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Listesi.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Properties.Resources.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Sinav_Ol.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Islem.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Listesi.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Yedekleme_Islem.resources
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.GenerateResource.Cache
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.exe
+D:\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.Sanal_Sinif_Sistemi.exe.config
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Analizler.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Anasayfa.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Islem.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Listesi.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Islem.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Listesi.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Giris.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Islem.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Listesi.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Properties.Resources.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Sinav_Ol.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Islem.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Listesi.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Yedekleme_Islem.resources
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.GenerateResource.Cache
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe.config
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe.config
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ForEachSMOEnumerator.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.Types.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.Sanal_Sinif_Sistemi.exe.config
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Analizler.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Anasayfa.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Islem.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Ders_Listesi.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Islem.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Konu_Listesi.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Giris.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Islem.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Kullanici_Listesi.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Properties.Resources.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Sinav_Ol.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Islem.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Soru_Listesi.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.Yedekleme_Islem.resources
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.csproj.GenerateResource.Cache
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sanal_Sinif_Sistemi\obj\Debug\Sanal_Sinif_Sistemi.pdb

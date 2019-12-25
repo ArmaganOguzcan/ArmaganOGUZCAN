@@ -1,0 +1,105 @@
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sinav_Test.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sinav_Test.pdb
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.exe
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.pdb
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.exe.config
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.csprojResolveAssemblyReference.cache
+D:\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.dll
+D:\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.pdb
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sinav_Test.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sinav_Test.pdb
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.exe.config
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.csprojResolveAssemblyReference.cache
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.dll
+C:\Users\oguz\Desktop\Üni Dersler\Yaz. Sın\oguz-armagan\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.pdb
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sinav_Test.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sinav_Test.pdb
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.exe
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.pdb
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Sanal_Sinif_Sistemi.exe.config
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.csprojResolveAssemblyReference.cache
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.dll
+C:\Users\Bilişim\Desktop\Proje-1\Sanal_Sinif_Sistemi\Sinav_Test\obj\Debug\Sinav_Test.pdb

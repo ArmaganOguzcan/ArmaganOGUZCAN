@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_Sinav_Analiz" Class="DataClasses_Sanal_SinifDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=db_Sinav_Analiz;Persist Security Info=True;User ID=sa" SettingsObjectName="Sanal_Sinif_Sistemi.Properties.Settings" SettingsPropertyName="db_Sinav_AnalizConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Dersler" Member="Derslers">
+    <Type Name="Dersler">
+      <Column Name="Ders_ID" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ders_Adi" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Aktiflik_Durumu" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Aciklama" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="Dersler_Konu" Member="Konus" ThisKey="Ders_ID" OtherKey="Ders_ID" Type="Konu" />
+      <Association Name="Dersler_Soru" Member="Sorus" ThisKey="Ders_ID" OtherKey="Ders_ID" Type="Soru" />
+      <Association Name="Dersler_Test" Member="Tests" ThisKey="Ders_ID" OtherKey="Ders_ID" Type="Test" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Yetki" Member="Yetkis">
+    <Type Name="Yetki">
+      <Column Name="Yetki_ID" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Yetki_Adi" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Aciklama" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="Yetki_Kullanici" Member="Kullanicis" ThisKey="Yetki_ID" OtherKey="Yetki_ID" Type="Kullanici" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Konu" Member="Konus">
+    <Type Name="Konu">
+      <Column Name="Konu_ID" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ders_ID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Konu_Adi" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Aktiflik_Durumu" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Aciklama" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="Konu_Soru" Member="Sorus" ThisKey="Konu_ID" OtherKey="Konu_ID" Type="Soru" />
+      <Association Name="Dersler_Konu" Member="Dersler" ThisKey="Ders_ID" OtherKey="Ders_ID" Type="Dersler" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Kullanici" Member="Kullanicis">
+    <Type Name="Kullanici">
+      <Column Name="Kullanici_ID" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Yetki_ID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Kullanici_Adi" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Kullanici_Sifre" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="TC_Kimlik_No" Type="System.String" DbType="NVarChar(11)" CanBeNull="true" />
+      <Column Name="Adi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Soyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Aktiflik_Durumu" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Aciklama" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="Kullanici_Test" Member="Tests" ThisKey="Kullanici_ID" OtherKey="Kullanici_ID" Type="Test" />
+      <Association Name="Yetki_Kullanici" Member="Yetki" ThisKey="Yetki_ID" OtherKey="Yetki_ID" Type="Yetki" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Soru" Member="Sorus">
+    <Type Name="Soru">
+      <Column Name="Soru_ID" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ders_ID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Konu_ID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Soru_Icerik" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Cevap_Metin_A" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Cevap_Metin_B" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Cevap_Metin_C" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Cevap_Metin_D" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Soru_Img" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Cevap_Img_A" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Cevap_Img_B" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Cevap_Img_C" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Cevap_Img_D" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Dogru_Cevap" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Soru_Tarihi" AutoSync="Never" Type="System.DateTime" DbType="DateTime" IsDbGenerated="true" CanBeNull="true" />
+      <Column Name="Aktiflik_Durumu" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Aciklama" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="Soru_Test_Detay" Member="Test_Detays" ThisKey="Soru_ID" OtherKey="Soru_ID" Type="Test_Detay" />
+      <Association Name="Dersler_Soru" Member="Dersler" ThisKey="Ders_ID" OtherKey="Ders_ID" Type="Dersler" IsForeignKey="true" />
+      <Association Name="Konu_Soru" Member="Konu" ThisKey="Konu_ID" OtherKey="Konu_ID" Type="Konu" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Test" Member="Tests">
+    <Type Name="Test">
+      <Column Name="Test_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Kullanici_ID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Ders_ID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Test_Adi" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Test_Tarihi" AutoSync="Never" Type="System.DateTime" DbType="DateTime NOT NULL" IsDbGenerated="true" CanBeNull="false" />
+      <Association Name="Test_Test_Detay" Member="Test_Detays" ThisKey="Test_ID" OtherKey="Test_ID" Type="Test_Detay" />
+      <Association Name="Dersler_Test" Member="Dersler" ThisKey="Ders_ID" OtherKey="Ders_ID" Type="Dersler" IsForeignKey="true" />
+      <Association Name="Kullanici_Test" Member="Kullanici" ThisKey="Kullanici_ID" OtherKey="Kullanici_ID" Type="Kullanici" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Test_Detay" Member="Test_Detays">
+    <Type Name="Test_Detay">
+      <Column Name="Test_Detay_ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Test_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Soru_ID" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="Cevap_Secenek" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Association Name="Soru_Test_Detay" Member="Soru" ThisKey="Soru_ID" OtherKey="Soru_ID" Type="Soru" IsForeignKey="true" />
+      <Association Name="Test_Test_Detay" Member="Test" ThisKey="Test_ID" OtherKey="Test_ID" Type="Test" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
